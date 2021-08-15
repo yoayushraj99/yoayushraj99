@@ -51,14 +51,13 @@
 ![asyncio](https://img.shields.io/badge/asyncio-%2300BAFF.svg?&style=for-the-badge&logo=python&logoColor=white) -->
 
 ### Contributions
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoayushraj99&theme=react&hide_border=true&fire=DD2727" alt="yoayushraj99" />
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoayushraj99&theme=react&hide_border=true&fire=DD2727" alt="yoayushraj99" />
 </div>
 <hr/>
-<div align="center">
- 
- ### GitHub Stats
 
+### GitHub Stats
+<div align="center">
 <img  alt="Ayush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yoayushraj99&show_icons=true&hide_border=true&theme=react&hide_border=true&fire=DD2727" />
 
 </div>
