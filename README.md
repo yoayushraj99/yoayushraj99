@@ -24,7 +24,7 @@
 ![css](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge)
+<!-- ![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) -->
 <!-- ![go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white) -->
 ![dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
