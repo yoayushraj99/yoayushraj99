@@ -1,7 +1,7 @@
 ### Hi there, I'm Ayush Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full-Stack Web & App developer !
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning BlockChain Development.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Learn to build big projects using more tools and PL.
 
