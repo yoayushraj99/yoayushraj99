@@ -3,7 +3,6 @@
 ## I'm a Full-Stack Web & App developer !
 - 🌱 I’m currently learning BlockChain Development.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Learn to build big projects using more tools and PL.
 
 ### 👦Stats
 <div align="left">
